@@ -94,6 +94,7 @@ input:focus {
 }
   
 .contact-container .text {
+  color: #2399cf;
   margin-left: 12px;
   width: 70%;
 }
@@ -145,12 +146,12 @@ hr {
   margin-left: -20px;
 }
 .user-message--right {
-  background: grey;
+  background: #2399cf;
 }
   
 .user-message--right:after {
   right: 0;
-  border-left-color: grey;
+  border-left-color: #2399cf;
   border-right: 0;
   margin-right: -20px;
 }
@@ -165,7 +166,7 @@ hr {
 }
 .offset-md-9 .user-message,.offset-md-10
   .user-message {
-    background: grey;
+    background: #2399cf;
     color: #fff;
   }
 .chat-sender {
